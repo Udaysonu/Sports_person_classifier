@@ -31,6 +31,7 @@ But since I could not get the data of the above discussed cases so I am using th
  
     <img src="https://github.com/Udaysonu/Sports_person_classifier/blob/main/screenshots/four.JPG">
     
+    <img src="https://github.com/Udaysonu/Sports_person_classifier/blob/main/screenshots/two.JPG">
 
  
     We get the output as class which has maximum probability and the list of probabilities of different class in the table
@@ -41,6 +42,8 @@ But since I could not get the data of the above discussed cases so I am using th
  
      <img src="https://github.com/Udaysonu/Sports_person_classifier/blob/main/screenshots/five.JPG">
      
+     <img src="https://github.com/Udaysonu/Sports_person_classifier/blob/main/screenshots/three.JPG">
+
 
     We get the output as class which has maximum probability and the list of probabilities of different class in the table
     
